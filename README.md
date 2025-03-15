@@ -1,6 +1,8 @@
 # CalculInteretsComposes
 ✨ Description
 
+https://interetcomposes.netlify.app/
+
 Compofin est un outil en ligne moderne et intuitif permettant de calculer les intérêts composés en quelques secondes. Il offre une interface simple, une visualisation graphique de l’évolution des gains sur le temps et une expérience utilisateur fluide, sans stockage de données.
 
 🎯 Objectifs
